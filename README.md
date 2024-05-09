@@ -1,5 +1,5 @@
 ### Hi there 👋
--  🏗 currently building my data portfolio
+-  🏗 currently building data portfolio
 -  👷‍♂️ interested in data engineering
 -  🔎 looking opportunities to work in data science field
 
