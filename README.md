@@ -3,8 +3,8 @@
 -  👷‍♂️ I have interest in data engineering
 -  🖥 I’m looking for opportunities in data science or machine learning
 -  📫 How to reach me:
-  -  ▶ youtube / 📧 gmail: disagriabl
-  -  linkedin : Rama Adilla Zein
+    -  ▶ youtube / 📧 gmail: disagriabl
+    -  linkedin : Rama Adilla Zein
 
 <!--
 **disagriabl/disagriabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
