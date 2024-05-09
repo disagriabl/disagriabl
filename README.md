@@ -1,7 +1,7 @@
 ### Hi there 👋
 -  🏗 I’m currently building my data portfolio
 -  👷‍♂️ I have interest in data engineering
--  🖥 I’m looking for work opportunities in data science or machine learning
+-  🔎 I’m looking for work opportunities in data science or machine learning
 -  📫 Find me at:
     -  ▶ youtube : disagriabl
     -  linkedin : Rama Adilla Zein
