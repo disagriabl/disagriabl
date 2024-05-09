@@ -1,7 +1,7 @@
 ### Hi there 👋
--  🏗 I’m currently building my data portfolio
--  👷‍♂️ I have interest in data engineering
--  🔎 I’m looking for work opportunities in data science or machine learning
+-  🏗 currently building my data portfolio
+-  👷‍♂️ interested in data engineering
+-  🔎 looking opportunities to work in data science field
 
 <!--
 **disagriabl/disagriabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
