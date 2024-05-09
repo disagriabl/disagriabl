@@ -2,9 +2,7 @@
 -  🏗 I’m currently building my data portfolio
 -  👷‍♂️ I have interest in data engineering
 -  🔎 I’m looking for work opportunities in data science or machine learning
--  📫 Find me at:
-    -  ▶ youtube : disagriabl
-    -  linkedin : Rama Adilla Zein
+-  ▶ youtube : disagriabl
 
 <!--
 **disagriabl/disagriabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
